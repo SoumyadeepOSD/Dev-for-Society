@@ -7,6 +7,9 @@ import Bonding from './components/Hero/bonding';
 import MainTitle from './components/Main/maintitle';
 import { CardComponent } from './components/Main/cards';
 
+
+
+
 // Brand ==> The bold text in home page
 //Mission ==> The mission text
 //Ideas ==> The idea list, followed by (1), (2), (3)
